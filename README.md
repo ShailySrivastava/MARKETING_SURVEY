@@ -1,5 +1,4 @@
 # MARKETING_SURVEY
-For your GitHub commits, here are some suggestions to keep your progress organized and descriptive:
 
 1. **Initial Setup**:
    - `"Initialize repository with project documentation"`
